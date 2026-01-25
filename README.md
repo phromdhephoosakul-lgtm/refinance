@@ -219,16 +219,16 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">รีไฟแนนซ์ตามยอดหนี้ที่เหลือไม่ขอวงเงินเพิ่ม <span class="badge">ยอดฮิต</span></div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 20,000 บาท; เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <div class="card-header">รีไฟแนนซ์ตามยอดหนี้ที่เหลือ<br>ไม่ขอวงเงินเพิ่ม <span class="badge">ยอดฮิต</span></div>
+    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 20,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
         <div class="benefit-value">1.59% - 3.19% ต่อปี</div>
       </div>
       <div class="benefit-item">
-        <div class="benefit-label">วงเงินกู้ตามยอดภาระหนี้ที่เหลือ</div>
-        <div class="benefit-value">85% - 110% ของราคาประเมิน</div>
+        <div class="benefit-label">วงเงินกู้ตามยอดเงินต้น<br>ล่าสุด</div>
+        <div class="benefit-value">85% - 110%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C2-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
@@ -237,17 +237,17 @@
   <!-- Option 2 -->
   <div class="card">
     <div class="card-header">รีไฟแนนซ์และขอวงเงินเพิ่ม</div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท; เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
     <div class="benefit-grid">
       <div class="benefit-item2">
-        <div class="benefit-label">รีไฟแนนซ์ : อัตราดอกเบี้ยเริ่มต้น</div>
+        <div class="benefit-label">รีไฟแนนซ์ : ดอกเบี้ยเริ่มต้น</div>
         <div class="benefit-value">3.09% - 3.53% ต่อปี</div>
-        <div class="benefit-label">ส่วนกู้เพิ่ม : อัตราดอกเบี้ยเริ่มต้น</div>
+        <div class="benefit-label">ส่วนกู้เพิ่ม : ดอกเบี้ยเริ่มต้น</div>
         <div class="benefit-value">5.39% - 5.59% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
-        <div class="benefit-value">70% - 95% ของราคาประเมิน</div>
+        <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
       </div>
     </div>
     <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C1-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
