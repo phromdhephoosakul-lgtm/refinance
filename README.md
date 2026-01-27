@@ -171,6 +171,7 @@
       display: block;
       text-decoration: none;
       font-weight: bold;
+      font-size: 1.2rem;
       margin: 30px auto;
       max-width: 300px;
       box-shadow: 0 6px 20px rgba(227, 6, 19, 0.3);
@@ -237,7 +238,13 @@
   <!-- Option 1 -->
   <div class="card">
     <div class="card-header">รีไฟแนนซ์ตามยอดหนี้ที่เหลือ<br>ไม่ขอวงเงินเพิ่ม <span class="badge">ยอดฮิต</span></div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 20,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <p style="font-size: 0.9rem; ">
+      <ul style="margin-left: 40px;">
+      <li>พนักงานประจำ รายได้ > 20,000 บาท</li>
+      <li>เจ้าของกิจการ รายได้ > 30,000 บาท</li>
+      <li>มียอดจำนองกับธนาคารเดิม > 2 ล้านบาท และมีเงินต้นเหลือ > 1 ล้านบาท</li>
+      </ul>
+    </p>
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
@@ -248,13 +255,18 @@
         <div class="benefit-value">85% - 110%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C2-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C2-Th_261268.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
   <!-- Option 2 -->
   <div class="card">
     <div class="card-header">รีไฟแนนซ์และขอวงเงินเพิ่ม</div>
-    <p style="font-size: 0.9rem;">พนักงานประจำ รายได้ > 15,000 บาท;<br>เจ้าของกิจการ รายได้ > 30,000 บาท</p>
+    <p style="font-size: 0.9rem; ">
+      <ul style="margin-left: 40px;">
+      <li>พนักงานประจำ รายได้ > 15,000 บาท</li>
+      <li>เจ้าของกิจการ รายได้ > 30,000 บาท</li>
+      </ul>
+    </p>
     <div class="benefit-grid">
       <div class="benefit-item2">
         <div class="benefit-label">รีไฟแนนซ์ : ดอกเบี้ยเริ่มต้น</div>
@@ -267,10 +279,10 @@
         <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C1-Th_261268.pdf" target="_blank">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/loan/refinance/2026/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C1-Th_261268.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
-    <a href="https://drive.google.com/file/d/1ZUAgyIfJB2y1T07PHI-OZi9kkqktwBlH/view?usp=sharing" class="cta-btn">เอกสารประกอบการสมัคร</a>
+    <a href="https://drive.google.com/file/d/1ZUAgyIfJB2y1T07PHI-OZi9kkqktwBlH/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="cta-btn">เอกสารประกอบการสมัคร</a>
 </div>
 
 <div class="footer1">
