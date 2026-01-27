@@ -201,6 +201,23 @@
       background: #eee;
       margin-top: 20px;
     }
+    
+    .footer1{
+      font-size: 0.75rem;
+      color: #777;
+      padding: 10px;
+      background: #eee;
+      margin-top: 10px;
+    }
+
+    .footer2{
+      font-size: 0.75rem;
+      color: #777;
+      padding: 20px;
+      background: #eee;
+      margin-top: -10px;
+    }
+    
   </style>
 </head>
 <body>
