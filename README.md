@@ -237,7 +237,7 @@
 
   <!-- Option 1 -->
   <div class="card">
-    <div class="card-header">รีไฟแนนซ์ตามยอดหนี้ที่เหลือ<br>ไม่ขอวงเงินเพิ่ม <span class="badge">ยอดฮิต</span></div>
+    <div class="card-header">รีไฟแนนซ์ตามภาระหนี้คงเหลือ<br>โดยไม่ขอวงเงินเพิ่ม <span class="badge">ยอดฮิต</span></div>
     <p style="font-size: 0.9rem; ">
       <ul style="margin-left: 40px;">
       <li>พนักงานประจำ รายได้ > 30,000 บาท</li>
@@ -251,7 +251,7 @@
         <div class="benefit-value">1.59% - 3.09% ต่อปี</div>
       </div>
       <div class="benefit-item">
-        <div class="benefit-label">วงเงินกู้ตามยอดเงินต้น<br>ล่าสุด</div>
+        <div class="benefit-label">วงเงินกู้ตามยอดเงินต้น<br>ในใบแจ้งหนี้ล่าสุด</div>
         <div class="benefit-value">85% - 110%<br>ของราคาประเมิน</div>
       </div>
     </div>
