@@ -248,14 +248,14 @@
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">1.59% - 3.09% ต่อปี</div>
+        <div class="benefit-value">เริ่มต้นปีแรก 1.59% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้ตามยอดเงินต้น<br>ในใบแจ้งหนี้ล่าสุด</div>
         <div class="benefit-value">85% - 110%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C2-Th_170369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C2-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
   <!-- Option 2 -->
@@ -270,16 +270,16 @@
     <div class="benefit-grid">
       <div class="benefit-item2">
         <div class="benefit-label">รีไฟแนนซ์ : ดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">2.99% - 3.53% ต่อปี</div>
+        <div class="benefit-value">3.09% - 3.49% ต่อปี</div>
         <div class="benefit-label">ส่วนกู้เพิ่ม : ดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">5.29% - 5.49% ต่อปี</div>
+        <div class="benefit-value">5.129% - 5.62% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
         <div class="benefit-value">70% - 95%<br>ของราคาประเมิน</div>
       </div>
     </div>
-    <a href="https://www.cimbthai.com/content/dam/cimbth/personal/documents/products/homeloan/th/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20Generic%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C1-Th_170369.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
+    <a href="https://www.cimbthaionlinecampaign.com/assets/pdf/%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%80%E0%B8%9A%E0%B8%B5%E0%B9%89%E0%B8%A2%20-%20%E0%B8%A3%E0%B8%B5%E0%B9%84%E0%B8%9F%E0%B9%81%E0%B8%99%E0%B8%99%E0%B8%8B%E0%B9%8C1-Th.pdf" target="_blank" rel="noopener noreferrer">ดูรายละเอียดเพิ่มเติม ></a>
   </div>
 
     <a href="https://drive.google.com/file/d/1ZUAgyIfJB2y1T07PHI-OZi9kkqktwBlH/view?usp=sharing" target="_blank" rel="noopener noreferrer" class="cta-btn">เอกสารประกอบการสมัคร</a>
