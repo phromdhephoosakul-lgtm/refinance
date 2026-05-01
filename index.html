@@ -248,7 +248,7 @@
     <div class="benefit-grid">
       <div class="benefit-item">
         <div class="benefit-label">อัตราดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">เริ่มต้นปีแรก 1.59% ต่อปี</div>
+        <div class="benefit-value">ปีแรก 1.59% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้ตามยอดเงินต้น<br>ในใบแจ้งหนี้ล่าสุด</div>
@@ -272,7 +272,7 @@
         <div class="benefit-label">รีไฟแนนซ์ : ดอกเบี้ยเริ่มต้น</div>
         <div class="benefit-value">3.09% - 3.49% ต่อปี</div>
         <div class="benefit-label">ส่วนกู้เพิ่ม : ดอกเบี้ยเริ่มต้น</div>
-        <div class="benefit-value">5.129% - 5.62% ต่อปี</div>
+        <div class="benefit-value">5.12% - 5.62% ต่อปี</div>
       </div>
       <div class="benefit-item">
         <div class="benefit-label">วงเงินกู้สูงสุด</div>
